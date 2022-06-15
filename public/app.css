@@ -1,16 +1,28 @@
 .body {
-    background: gray;
+    background: rgb(0, 0, 0);
 }
 
 .container {
-    align-items: center;
-    width: min-content;
-    background: thistle;
+    margin: auto;
+    justify-items: center;
+    width: 30%;
 }
 
-.h1 {
+.content {
     text-align: center;
+    width: max-content;
+    background: thistle;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
     color: brown;
     font-size: larger;
     font-family: 'Lucida Sans';
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: bold;
 }
