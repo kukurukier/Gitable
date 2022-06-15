@@ -7,3 +7,10 @@
     width: min-content;
     background: thistle;
 }
+
+.h1 {
+    text-align: center;
+    color: brown;
+    font-size: larger;
+    font-family: 'Lucida Sans';
+}
