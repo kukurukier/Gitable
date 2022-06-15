@@ -1,0 +1,9 @@
+.body {
+    background: gray;
+}
+
+.container {
+    align-items: center;
+    width: min-content;
+    background: thistle;
+}
